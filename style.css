@@ -1,15 +1,26 @@
 h1{
 font-size: 30px;
 text-align: center;
-color: #de7471
+color: #FF5EA7
+  font-family: Calibri, sans-serif;
+}
+
+h2{
+font-size: 30px;
+text-align: right;
+color: #FF5EA7
+  font-family: Calibri, sans-serif;
 }
 
 p{
 font-size: 20px;
-text-align: center;
+text-align: justify;
 font-family: Calibri, sans-serif;
 }
 
 body {
-background-color: #FFF2F4;
+background-color: #FFEDED;
+max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
 }
