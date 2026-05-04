@@ -27,4 +27,14 @@ max-width: 800px;
 
 img {
   max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.img-small {
+  width: 250px;
+}
+
+.img-full {
+  max-width: 100%
 }
