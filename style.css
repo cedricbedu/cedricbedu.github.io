@@ -7,7 +7,7 @@ color: #FF5EA7
 
 h2{
 font-size: 30px;
-text-align: right;
+text-align: left;
 color: #FF5EA7
   font-family: Calibri, sans-serif;
 }
@@ -23,4 +23,8 @@ background-color: #FFEDED;
 max-width: 700px;
   margin: 0 auto;
   padding: 20px;
+}
+
+img {
+  max-width: 100%;
 }
